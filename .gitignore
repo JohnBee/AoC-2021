@@ -1,3 +1,11 @@
+*/.vscode
+*/input
+*/input_small
+*/input_bigger
+*/input_even_bigger
+*/input_test
+*/visualise.txt
+
 # Prerequisites
 *.d
 
